@@ -258,3 +258,9 @@ Tools with an API or MCP server can be run by AI agents directly. On this list t
   ]
 }
 </script>
+
+## Related guides
+
+- [Best AI website builders for client work](https://bennettblackcode.github.io/best-ai-website-builders/)
+- [AI visibility tools for ChatGPT, Gemini and Perplexity](https://bennettblackcode.github.io/ai-visibility-tools/)
+- [Google Maps scrapers compared](https://bennettblackcode.github.io/google-maps-scrapers-compared/)
